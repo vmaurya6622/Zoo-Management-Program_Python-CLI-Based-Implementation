@@ -2,7 +2,7 @@
 * Author :- Vishal Kumar Maurya (2022580) *
  *******************************************
 
-Hello, in this maven project, I have Implemented a zoo administration program that runs seamlesssly.
+Hello, in this maven project, I have Implemented a zoo administration program that runs seamlessly.
 it provides all the important options that were provided by the assignment description pdf.
 
 The code works fine with Maven, I have also updated the pom.xml file
